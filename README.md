@@ -1,6 +1,6 @@
-# 📊 Superstore Sales Performance Dashboard (Power BI)
+#  Superstore Sales Performance Dashboard (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on **Data Visualization and Storytelling** using the **Sample Superstore Dataset**. The objective is to transform raw sales data into meaningful business insights through interactive visualizations and dashboards created in **Microsoft Power BI**.
 
@@ -8,7 +8,7 @@ The dashboard provides a comprehensive analysis of sales performance across diff
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Create interactive visualizations using Power BI.
 - Analyze sales and profit performance.
@@ -19,7 +19,7 @@ The dashboard provides a comprehensive analysis of sales performance across diff
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Microsoft Power BI Desktop
 - Sample Superstore Dataset (CSV)
@@ -30,7 +30,7 @@ The dashboard provides a comprehensive analysis of sales performance across diff
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 **Dataset Name:** Sample Superstore Dataset
 
@@ -53,7 +53,7 @@ The dataset contains information related to:
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 The following preprocessing steps were performed before visualization:
 
@@ -83,7 +83,7 @@ Total Quantity = SUM([Quantity])
 
 ---
 
-## 📈 Dashboard Components
+## Dashboard Components
 
 ### KPI Cards
 
@@ -168,7 +168,7 @@ The dashboard includes four Key Performance Indicators (KPIs):
 
 ---
 
-## 🎛 Interactive Features
+## Interactive Features
 
 The dashboard includes slicers for:
 
@@ -180,7 +180,7 @@ These filters allow users to interactively explore and analyze the data.
 
 ---
 
-## 📖 Storytelling Approach
+## Storytelling Approach
 
 The dashboard was designed to answer the following business questions:
 
@@ -201,7 +201,7 @@ Higher discount percentages negatively impact profit margins.
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 1. Total sales exceeded **$2.3 Million**.
 2. Technology is the most profitable category.
@@ -212,7 +212,7 @@ Higher discount percentages negatively impact profit margins.
 
 ---
 
-## 📋 Recommendations
+## Recommendations
 
 - Focus marketing efforts on Technology products.
 - Optimize discount strategies to improve profit margins.
@@ -222,7 +222,7 @@ Higher discount percentages negatively impact profit margins.
 
 ---
 
-## 📷 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1: Superstore Sales Dashboard
 
@@ -243,7 +243,7 @@ Contains:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Superstore-Sales-Dashboard/
@@ -257,7 +257,7 @@ Superstore-Sales-Dashboard/
 
 ---
 
-## 🚀 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned:
 
